@@ -40,9 +40,11 @@ INSERT INTO `Probes` (`name`, `year`, `dest`) VALUES
 
 #3 ###########################################
 
-SELECT * FROM Planets;ESCRIBE Planets;
+SELECT * FROM Planets;
+DESCRIBE Planets;
 
-SELECT * FROM Probes;DESCRIBE Probes;
+SELECT * FROM Probes;
+DESCRIBE Probes;
 
 #4 ###########################################
 

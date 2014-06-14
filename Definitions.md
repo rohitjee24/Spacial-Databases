@@ -16,6 +16,11 @@ closed loop, double-digitized polygons. Attributes are held in a dBASE® format 
 Each attribute record has a one-to-one relationship with the associated shape record.
 
 
+OSM file  : 
+
+
+"OpenStreetMap creates and provides free geographic data such as street maps to anyone who wants them. The project was started because most maps you think of as free actually have legal or technical restrictions on their use, holding back people from using them in creative, productive, or unexpected ways."
+
 GeoJSON FIle : 
 
 GeoJSON is a widely-used data format for displaying vectors in web maps. It is based on JavaScript object notation,

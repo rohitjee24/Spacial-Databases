@@ -1,6 +1,5 @@
 ###  Assignment 3
 
-.................
 <?php
 error_reporting(0);
         // Create connection

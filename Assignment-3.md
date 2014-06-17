@@ -1,9 +1,6 @@
 ###  Assignment 3
 
-
-Index.php
 .................
-
 <?php
 error_reporting(0);
         // Create connection

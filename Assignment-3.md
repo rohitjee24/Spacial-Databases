@@ -2,11 +2,7 @@
 
 
 Index.php
-
 .................
-
-
-
 <?php
 error_reporting(0);
         // Create connection

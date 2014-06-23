@@ -1,9 +1,9 @@
 ##Assignment 5 - GIS File Types (and other stuff)
 ##Rohit mukherjee
 
-------
+---
 #Definitions of File Types
-------
+---
 
 
 1.SHP file :
@@ -62,9 +62,9 @@ spatial reference systems of spatial objects and transformations between spatial
 A binary equivalent, known as well-known binary (WKB) is used to transfer and store the same information on databases, 
 such as PostGIS, Microsoft SQL Server and DB2.
 
------ 
- #### Software
------
+---
+#Software
+---
 
 1.ArcGIS :
 
@@ -94,9 +94,9 @@ and is released under the permissive X/MIT style free software license by the Op
 As a library, it presents a single abstract data model to the calling application for all supported formats. 
 It may also be built with a variety of useful command-line utilities for data translation and processing.
 
------
-#### Definitions
------
+---
+#Definitions
+---
 
 
 1.Point :  A Point is a geometry that represents a single location in coordinate space.
@@ -130,9 +130,9 @@ It may also be built with a variety of useful command-line utilities for data tr
 7.MultiPolygons :  Multipolygon relation can have any number of ways in the role outer (the outline) and any number of ways in the role inner (the holes), 
                    and these must somehow form valid rings to build a multipolygon from.
 
-~~~
+---
 #Relationships
-~~~
+---
 
 
 1.Touches  :  Touches(g1,g2)  Returns 1 or 0 to indicate whether g1 spatially touches g2. Two geometries spatially touch if the interiors of the geometries do not intersect,

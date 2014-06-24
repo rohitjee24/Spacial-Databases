@@ -1,7 +1,6 @@
 ~~~
 #  Assignment 3
 
-~~~
 
 
 <?php  // Create connection

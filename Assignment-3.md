@@ -1,8 +1,9 @@
+~~~
 #  Assignment 3
 
-<?php
-error_reporting(0);
-        // Create connection
+
+
+<?php  // Create connection
         $con=mysqli_connect("localhost","rmukherjee","Rohitjee24","rmukherjee");
 
         // Check connection
@@ -161,3 +162,4 @@ function sql_to_coordinates($blob)
         }
 ?>
 
+~~~

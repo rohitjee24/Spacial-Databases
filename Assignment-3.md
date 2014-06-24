@@ -1,7 +1,11 @@
+~~~
 #  Assignment 3
 
+~~~
+
+
 <?php
-error_reporting(0);
+		error_reporting(0);
         // Create connection
         $con=mysqli_connect("localhost","rmukherjee","Rohitjee24","rmukherjee");
 
@@ -161,3 +165,4 @@ function sql_to_coordinates($blob)
         }
 ?>
 
+~~~

@@ -4,8 +4,7 @@
 ~~~
 
 
-<?php
-	// Create connection
+<?php  // Create connection
         $con=mysqli_connect("localhost","rmukherjee","Rohitjee24","rmukherjee");
 
         // Check connection

@@ -5,8 +5,7 @@
 
 
 <?php
-		error_reporting(0);
-        // Create connection
+	// Create connection
         $con=mysqli_connect("localhost","rmukherjee","Rohitjee24","rmukherjee");
 
         // Check connection

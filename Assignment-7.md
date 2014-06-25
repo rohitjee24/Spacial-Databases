@@ -2,11 +2,7 @@
 
 # Rohit mukherjee
 
-
-
-
-
-# MYSQL Quiery 
+# MYSQL Query 
    
 
 SELECT eq.shape AS shape, location, state       

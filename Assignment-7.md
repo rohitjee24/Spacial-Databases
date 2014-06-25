@@ -1,8 +1,8 @@
-# Assignment-7
+###Assignment-7
 
-# Rohit mukherjee
+### Rohit mukherjee
 
-# MYSQL Query 
+### MYSQL Query 
    
 
 SELECT eq.shape AS shape, location, state       
